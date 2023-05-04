@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+/*
+* Header 
+**/
+
+.company {
+	font-size: 18px;
+	font-family: 'Gentium Book Basic', serif;
+	font-weight: bold;
+}
+
+.nav-link{
+	font-size: 18px;
+	font-family: 'Gentium Book Basic', serif;
+	font-weight: bold;
+	color: black;
+}
+
+/*
+* Home
+**/
+.cover {
+	background-image: url('../images/cover.png');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 450px;
+}
+
+/*
+* Contact Us
+**/
+ .about {
+	background-image: url('../images/story.png');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 250px;
+	font-family: 'Gentium Book Basic', serif;
+	display: flex;
+	align-items: center;
+	justify-content:center;
+	font-size: 50px;
+	font-weight: bold;	
+}
+
+.story{
+	font-family: 'Gentium Book Basic', serif;
+	margin-top:20px
+}
+
+.story-text{
+	font-family: 'Gentium Book Basic', serif;
+	text-align: justify;
+}
+
+/*
+* Contact Us
+**/
+.contacts {
+	margin-top: 20px;
+	font-family: 'Gentium Book Basic', serif;
+}
+
+/*
+* Login
+**/
+.login-body {
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.img-fluid{
+	height:100%
+}
+
+.form-text{
+	font-family: 'Gentium Book Basic', serif;
+}
+
+.loginForm{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding:10px
+}
+
+/*
+* Dashboard
+**/
+.shadow {
+	box-shadow: 12px 13px 9px -12px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 12px 13px 9px -12px rgba(0,0,0,0.75);
+	-moz-box-shadow: 12px 13px 9px -12px rgba(0,0,0,0.75);
+}
+/*
+* Footer
+**/
+
+.copyright{
+	font-family: 'Gentium Book Basic', serif;
+	font-weight: bold;
+}
