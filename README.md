@@ -2,13 +2,6 @@
 
 A project for Spring Security
 
-## Project Overview
-
-We have been approached by the ABC Cars Pte Ltd. We are tasked to build a website portal for the sole purpose of selling the company products, the cars. The requirements is that the user will be able to register in the portal using the registration page. The users of the portal can search using Make Page. Also, they can also view the car information after searching. The Used Car Sales Portal allow users to login and post a car for sale. 
-
-There are two types of users in the portal: the Users and the Administrator. In the project they have similar roles, yet Administrator has the overall control on the website.
-
-
 ## Experience from the Project
 
 - Prepared a project plan to manage the Spring application development process
@@ -23,7 +16,17 @@ There are two types of users in the portal: the Users and the Administrator. In 
 - Spring Tool Suite
 - MySQL Work Bench
 - Draw.io
-- Microsoft Word
-- Microsoft Powerpoint
 
 ## Result
+
+### Admin User List
+
+![Picture1](https://github.com/j-escartin/ABC-Cars/assets/109270420/61277571-29be-4233-91c2-a815bbf2502d)
+
+### About Us Page
+
+![Picture2](https://github.com/j-escartin/ABC-Cars/assets/109270420/e1ebba5e-6e78-45f0-86ab-f615f46a5c11)
+
+### User Dashboard
+
+![Picture3](https://github.com/j-escartin/ABC-Cars/assets/109270420/44ccdfb1-25be-48a6-9181-066ebe9f01f8)
